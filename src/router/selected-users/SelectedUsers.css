@@ -1,0 +1,11 @@
+.selectedUsers{
+    padding: 40px 10%;
+    .users__wrapper {
+        .remove-btn {
+            display: none;
+        }
+        .select-btn {
+            margin-left: -12px !important;
+        }
+    }
+}
